@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 60a90cc300e772946829936abebf515f
+timeCreated: 1473217913
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpikerEDITED_0
+    21300002: SpikerEDITED_1
+    21300004: SpikerEDITED_2
+    21300006: SpikerEDITED_3
+    21300008: SpikerEDITED_4
+    21300010: SpikerEDITED_5
+    21300012: SpikerEDITED_6
+    21300014: SpikerEDITED_7
+    21300016: SpikerEDITED_8
+    21300018: SpikerEDITED_9
+    21300020: SpikerEDITED_10
+    21300022: SpikerEDITED_11
+    21300024: SpikerEDITED_12
+    21300026: SpikerEDITED_13
+    21300028: SpikerEDITED_14
+    21300030: SpikerEDITED_15
+    21300032: SpikerEDITED_16
+    21300034: SpikerEDITED_17
+    21300036: SpikerEDITED_18
+    21300038: SpikerEDITED_19
+    21300040: SpikerEDITED_20
+    21300042: SpikerEDITED_21
+    21300044: SpikerEDITED_22
+    21300046: SpikerEDITED_23
+    21300048: SpikerEDITED_24
+    21300050: SpikerEDITED_25
+    21300052: SpikerEDITED_26
+    21300054: SpikerEDITED_27
+    21300056: SpikerEDITED_28
+    21300058: SpikerEDITED_29
+    21300060: SpikerEDITED_30
+    21300062: SpikerEDITED_31
+    21300064: SpikerEDITED_32
+    21300066: SpikerEDITED_33
+    21300068: SpikerEDITED_34
+    21300070: SpikerEDITED_35
+    21300072: SpikerEDITED_36
+    21300074: SpikerEDITED_37
+    21300076: SpikerEDITED_38
+    21300078: SpikerEDITED_39
+    21300080: SpikerEDITED_40
+    21300082: SpikerEDITED_41
+    21300084: SpikerEDITED_42
+    21300086: SpikerEDITED_43
+    21300088: SpikerEDITED_44
+    21300090: SpikerEDITED_45
+    21300092: SpikerEDITED_46
+    21300094: SpikerEDITED_47
+    21300096: SpikerEDITED_48
+    21300098: SpikerEDITED_49
+    21300100: SpikerEDITED_50
+    21300102: SpikerEDITED_51
+    21300104: SpikerEDITED_52
+    21300106: SpikerEDITED_53
+    21300108: SpikerEDITED_54
+    21300110: SpikerEDITED_55
+    21300112: SpikerEDITED_56
+    21300114: SpikerEDITED_57
+    21300116: SpikerEDITED_58
+    21300118: SpikerEDITED_59
+    21300120: SpikerEDITED_60
+    21300122: SpikerEDITED_61
+    21300124: SpikerEDITED_62
+    21300126: SpikerEDITED_63
+    21300128: SpikerEDITED_64
+    21300130: SpikerEDITED_65
+    21300132: SpikerEDITED_66
+    21300134: SpikerEDITED_67
+    21300136: SpikerEDITED_68
+    21300138: SpikerEDITED_69
+    21300140: SpikerEDITED_70
+    21300142: SpikerEDITED_71
+    21300144: SpikerEDITED_72
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SpikerEDITED_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_9
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_10
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_11
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_13
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_14
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_15
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_16
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1120
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_22
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_24
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_25
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_26
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_28
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_29
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_30
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_31
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_32
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_33
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 840
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_37
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_38
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_39
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_40
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_41
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_42
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_43
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_44
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_45
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_46
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_47
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_48
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_49
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_50
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 560
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_52
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 280
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_53
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 280
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_54
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 280
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_55
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 280
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_56
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 280
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_57
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 280
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_58
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 280
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_59
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 280
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_61
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_62
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_63
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_64
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_65
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_66
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_67
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_68
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_69
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_70
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_71
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpikerEDITED_72
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 300
+        height: 280
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
